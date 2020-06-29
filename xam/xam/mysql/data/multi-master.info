@@ -1,0 +1,4 @@
+2019-12-31 15:36:22 0 [Note] Reading of all Master_info entries succeeded
+2019-12-31 15:36:22 0 [Note] Added new Master_info '' to hash table
+2019-12-31 15:36:22 0 [Note] c:\xam\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
